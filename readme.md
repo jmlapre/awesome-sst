@@ -2,6 +2,7 @@
 
 > A curated list of applications built using the Structural Simulation Toolkit (SST).
 
+The Structural Simulation Toolkit ([SST](http://sst-simulator.org/)) was developed to explore innovations in highly concurrent systems where the ISA, microarchitecture, and memory interact with the programming model and communications system.
 
 ## Contents
 
