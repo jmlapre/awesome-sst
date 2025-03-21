@@ -8,7 +8,7 @@ The Structural Simulation Toolkit ([SST](http://sst-simulator.org/)) was develop
 
 - [Section](#section)
 - [Another Section](#another-section)
-
+- [Contribute](#contribute)
 
 ## Section
 
