@@ -6,10 +6,10 @@ The Structural Simulation Toolkit ([SST](http://sst-simulator.org/)) was develop
 
 ## Contents
 
-- [Section](#section)
+- [Applications](#applications)
 - [Contribute](#contribute)
 
-## Section
+## Applications
 
 About this section. Optional. Keep this short and focus on the list.
 
